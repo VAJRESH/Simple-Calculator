@@ -3,7 +3,7 @@
 - This simple calculator is a command line tool application I created as a challenge from [this tutorial](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure/welcome?u=2088340) for learning Java.
 
 ## General Info
-- It is Java Based application which is designed to take two numbers as input (numbers can be anything from [int](https://www.w3schools.com/java/java_data_types.asp) to [float](https://www.w3schools.com/java/java_data_types.asp)) and a **operator** **(** plus(+), minus(-), multiply(*), divide(/) **)**.
+- It is Java Based application which is designed to take two numbers as input (numbers can be anything from [int](https://www.w3schools.com/java/java_data_types.asp) to [float](https://www.w3schools.com/java/java_data_types.asp)) and a **operator** **(** ```+```, ```-```, ```*```, ```/``` **)**.
 - Based on the operator you selected calculations are performed and result is displayed on the screen and it rerun the program for numeric input.'
 - You can exit the program by pressing ```Enter``` or ``` Return``` key or pressing ```Ctrl+C``` or ```Cmd+C```.
 

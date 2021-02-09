@@ -10,6 +10,9 @@
 ## Technologies Used
 - [Java](https://www.java.com/)
 
+## Installation
+- Will Update soon.
+
 ## Screenshot
 - This is how it looks when we run the application.
 ![Simple-Calculator-App](https://github.com/VAJRESH/Simple-Calculator/blob/main/Simple-Calculator/calculator_screenshot.PNG)

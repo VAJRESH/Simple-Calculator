@@ -8,7 +8,7 @@
 - You can exit the program by pressing ```Enter``` or ``` Return``` key or pressing ```Ctrl+C``` or ```Cmd+C```.
 
 ## Technologies Used
-- Java
+- [Java](https://www.java.com/)
 
 ## Screenshot
 - This is how it looks when we run the application.
